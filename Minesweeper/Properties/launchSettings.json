@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Minesweeper": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
